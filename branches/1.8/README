@@ -1,1 +1,9 @@
-This branch is meant to be used with eZ Publish 4.0.x
+This branch is meant to be used with eZ Publish 4.0.x:
+
+detailed compatibily table
+
+1.8 => 4.0.0, 4.0.1
+
+1.8.1 => 4.0.2, 4.0.3
+
+other: ?
