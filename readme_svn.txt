@@ -1,5 +1,6 @@
-The structure of the repository is slightly different from the one used by other eZ Systems projects:
+The structure of the repository:
 
-- releases: full copies of released versions - in eZ standard it is normally 'versions'
-- branches: one branch for every major version of the extension - in eZ standard it is 'stable'
-- trunk: where most of the development happens, will turn into next major version
+- releases: full copies of released versions - in eZ standard it is often named 'versions'
+- stable: one branch for every major version of the extension
+- trunk: where most of the development happens, is the current major version
+- branches: same as unstable: different versions that might become the next major one or be merged one day
