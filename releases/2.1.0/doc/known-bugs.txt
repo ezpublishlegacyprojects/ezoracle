@@ -1,0 +1,1 @@
+For a list of known bugs, head on to issues.ez.no and do a search with the 'oracle' keyword
