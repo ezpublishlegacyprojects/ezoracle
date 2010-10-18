@@ -12,3 +12,6 @@ Hence the need to clarify a little bit what is available here:
 2.0.2: copy of the community release (even though it was also bundled with eZP 4.2)
 2.0.1: copy of the community release
 2.0.0: copy of the community release
+
+PLEASE do not recreate extension/ezoracle subdiretory for every tagged release,
+just a dir containing directly the extension's contents
