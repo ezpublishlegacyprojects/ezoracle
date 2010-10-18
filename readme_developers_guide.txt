@@ -13,3 +13,7 @@ BEWARE OF THE LEOPARD: guidelines for developers
   - also update the file bin/php/mysql2oracle-schema.php (adding the same column)
   - add an UPDATE statement to change that col in update/database/ezoracle
 
+4. when tagging a release, please add the release date to the changelog file in doc/changelogs/X.Y/
+   If you forget to do it, please do so for the subsequent release
+
+5. always upload to projects.ez.no for public download all releases (this includes the ones distributed within eZP bundles)
